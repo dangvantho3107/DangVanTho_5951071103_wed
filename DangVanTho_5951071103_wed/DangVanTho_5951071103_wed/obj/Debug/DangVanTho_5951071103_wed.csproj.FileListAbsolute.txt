@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\DangVanTho_5951071103_wed\DangVanTho_5951071103_wed\bin\Debug\DangVanTho_5951071103_wed.exe.config
+C:\Users\Admin\source\repos\DangVanTho_5951071103_wed\DangVanTho_5951071103_wed\bin\Debug\DangVanTho_5951071103_wed.exe
+C:\Users\Admin\source\repos\DangVanTho_5951071103_wed\DangVanTho_5951071103_wed\bin\Debug\DangVanTho_5951071103_wed.pdb
+C:\Users\Admin\source\repos\DangVanTho_5951071103_wed\DangVanTho_5951071103_wed\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\DangVanTho_5951071103_wed\DangVanTho_5951071103_wed\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\DangVanTho_5951071103_wed\DangVanTho_5951071103_wed\obj\Debug\DangVanTho_5951071103_wed.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DangVanTho_5951071103_wed\DangVanTho_5951071103_wed\obj\Debug\DangVanTho_5951071103_wed.Form1.resources
+C:\Users\Admin\source\repos\DangVanTho_5951071103_wed\DangVanTho_5951071103_wed\obj\Debug\DangVanTho_5951071103_wed.Properties.Resources.resources
+C:\Users\Admin\source\repos\DangVanTho_5951071103_wed\DangVanTho_5951071103_wed\obj\Debug\DangVanTho_5951071103_wed.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DangVanTho_5951071103_wed\DangVanTho_5951071103_wed\obj\Debug\DangVanTho_5951071103_wed.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DangVanTho_5951071103_wed\DangVanTho_5951071103_wed\obj\Debug\DangVanTho_5951071103_wed.csproj.CopyComplete
+C:\Users\Admin\source\repos\DangVanTho_5951071103_wed\DangVanTho_5951071103_wed\obj\Debug\DangVanTho_5951071103_wed.exe
+C:\Users\Admin\source\repos\DangVanTho_5951071103_wed\DangVanTho_5951071103_wed\obj\Debug\DangVanTho_5951071103_wed.pdb
